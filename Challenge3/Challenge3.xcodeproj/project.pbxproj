@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9DC367082D132943001D103D /* Challenge3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Challenge3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DC367082D132943001D103D /* Challenge3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Challenge3.app; path = "/Users/m.bilal/Downloads/ApplrChallenge-3/Challenge3/build/Debug-iphoneos/Challenge3.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				9DC3670A2D132943001D103D /* Challenge3 */,
-				9DC367092D132943001D103D /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		9DC367092D132943001D103D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				9DC367082D132943001D103D /* Challenge3.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 9DC366FF2D132943001D103D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 9DC367092D132943001D103D /* Products */;
+			productRefGroup = 9DC366FF2D132943001D103D;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
